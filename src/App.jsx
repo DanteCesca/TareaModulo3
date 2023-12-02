@@ -1,8 +1,9 @@
+import H1 from './components/LoremH2/H1.jsx'
 
 function App() {
   return (
     <>
-      <h1>Hello World!</h1>
+      <H1 title="My Friend"/>
     </>
   )
 }
